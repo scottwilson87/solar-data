@@ -1,1 +1,1 @@
-# solar-data
+The attached CSV files contain hourly records of solar irradiance and its corresponding energy utilization. irrad_data.csv: Contains global horizontal solar irradiance values ​​(in W/m²), which represent the solar energy available on a flat surface. solarPV_use.csv: Contains corresponding photovoltaic energy utilization values, allowing for an assessment of the actual use of the available solar resource. Each dataset includes daily entries divided into eight time intervals: 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, and 21:00.
